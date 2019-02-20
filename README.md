@@ -1,5 +1,4 @@
-# WebPage1
-Web Page Desing
+#Web Page Desing
 
 Technologies Used:
 - HTML 5
